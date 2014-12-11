@@ -1,0 +1,4 @@
+JuliusCore
+==========
+
+DRY types, templates
